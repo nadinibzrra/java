@@ -7,7 +7,7 @@ package joguinho;
 
 /**
  *
- * @author Aluno
+ * @author Clara Nadini
  */
 public class Dado {
     private int valorFace;

@@ -8,7 +8,7 @@ package joguinho;
 import joguinho.Jogo;
 /**
  *
- * @author Aluno
+ * @author Clara Nadini
  */
 public class Principal {
      public static void main(String[] args) {

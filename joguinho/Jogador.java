@@ -7,7 +7,7 @@ package joguinho;
 
 /**
  *
- * @author Aluno
+ * @author Clara Nadini
  */
 public class Jogador {
     private String nome;

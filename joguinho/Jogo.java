@@ -11,7 +11,7 @@ import joguinho.Dado;
 
 /**
  *
- * @author Aluno
+ * @author Clara Nadini
  */
 public class Jogo {
 
